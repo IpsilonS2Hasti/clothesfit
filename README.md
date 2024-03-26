@@ -1,16 +1,8 @@
-# clothesfit
+# ClothesFit
+A mobile cross-platform application built with Flutter in the programming language Dart with serverless architecture powered by Firebase with the purpose of presenting an idea for a start-up competition (Teenovator 2022). The app has an onboarding screen which then intuitively leads the user to a screen where they need to take measurements with their camera and, keeping the phone level using an inclinometer I built using native device orientation in Flutter.
 
-A new Flutter project.
+## Mobile app (android):
+https://drive.google.com/file/d/12ubDT3f728y2ArDICSjhBOWdhY1rYa-K/view?usp=sharing
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Collage
+![clothesfit](https://github.com/IpsilonS2Hasti/clothesfit/assets/59172405/4b68ed8a-956a-4c63-a58d-7e865cae0fcc)
